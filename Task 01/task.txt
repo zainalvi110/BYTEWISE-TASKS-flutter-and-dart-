@@ -1,0 +1,18 @@
+Task Day 01 Week 1
+
+Introduction to Mobile Engineering
+
+1. What are the key features and advantages of popular mobile operating systems and in which languages/frameworks we develop apps for them (e.g., Android, iOS)? Mention total % of each OS in market.
+
+2. Compare and contrast mobile app development in languages like Java, Swift, Kotlin, and JavaScript.
+
+3. What are the pros and cons of using cross-platform frameworks like Flutter, React Native, and Xamarin? 
+
+5. Discuss the advantages and disadvantages of using Flutter for mobile app development.
+
+8. What are the differences between native and hybrid mobile apps? Provide examples built using Flutter.
+
+9. Analyze the performance of mobile apps built with Flutter compared to native apps.
+10. Explain the usecases where using Flutter is good.
+11. Explain the usecases where using Flutter is not that good.
+12. What is Kivy and Ionic? Why dont we use them?
